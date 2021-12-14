@@ -1,0 +1,29 @@
+body {
+  background-color: lightslategrey;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: darkslateblue;
+    border-width: 5px;
+    width: 5%;
+  }
+  h1{
+    color: #0B4619;
+  }
+  h2{
+    color: indigo;
+  }
+  h3{color: #0F2C67;
+
+  }
+  li{
+    color: ivory;
+  }
+  td{
+    color: ivory;
+  }
+  a{
+    color: gold;
+  }
